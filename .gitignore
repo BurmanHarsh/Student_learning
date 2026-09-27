@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out-tsc/
+.angular/cache/
+.env
+.env.*
+!.env.example
+npm-debug.log*
